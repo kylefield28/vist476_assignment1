@@ -1,0 +1,14 @@
+{
+  "name": "c62839b13c5f730e",
+  "main": "c62839b13c5f730e@132.js",
+  "version": "132.0.0",
+  "homepage": "https://observablehq.com/d/c62839b13c5f730e",
+  "author": {
+    "name": "TAMU Data Visualization",
+    "url": "https://observablehq.com/@tamu-data-visualization"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
